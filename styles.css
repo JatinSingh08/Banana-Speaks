@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+#input-text {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 20vh;
+  margin-top: 2rem;
+  font-size: large;
+  font-family: inherit;
+}
+#translate-btn {
+  background-color: yellow;
+  border: none;
+  margin: 1rem 0rem;
+  padding: 1rem 2rem;
+  font-family: 'Kalam', cursive;
+  font-size: large;
+}
+.heading {
+  text-align: center;
+  background-color: yellow;
+
+}
+#output-text {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 20vh;
+  margin-top: 2rem;
+  font-size: large;
+  font-family: inherit;
+}
